@@ -1,0 +1,41 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Intel Pentium Gold G7400",
+            "descripcion": "12th Generación. Socket S1700",
+            "precio": 8858,
+            "stock": 50,
+            "img": "pentiumGold.png",
+            "destacado": 0
+        },
+        {
+            "id": 2,
+            "nombre": "Intel Celeron G6900 3.5GHz",
+            "descripcion": "12th Generación. Socket S1700",
+            "precio": 5907,
+            "stock": 50,
+            "img": "celeron.png",
+            "destacado": 1
+        },
+
+        {
+            "id": 3,
+            "nombre": "Intel i3 12100F",
+            "descripcion": "12th Generación. Sin video. Socket S1700",
+            "precio": 8858,
+            "stock": 50,
+            "img": "i3.png",
+            "destacado": 0
+        },
+        {
+            "id": 4,
+            "nombre": "Intel i3 12100",
+            "descripcion": "12th Generación. Video integrado. Socket S1700",
+            "precio": 23371,
+            "stock": 50,
+            "img": "i3.png",
+            "destacado": 1
+        }
+    ]
+}
